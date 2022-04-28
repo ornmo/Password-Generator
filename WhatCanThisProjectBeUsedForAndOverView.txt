@@ -1,0 +1,7 @@
+This project is a random password generator 
+
+It uses Flexbox, CSS transitions and JavaScript
+
+This could be converted to be used in (for example) the following ways
+
+- select the differnt types of generated passwords - such as including uppercase, lowercase, letter, numbers symbols etc
